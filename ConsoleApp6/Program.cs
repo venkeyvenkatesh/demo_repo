@@ -13,5 +13,9 @@ namespace ConsoleApp6
         {
             Console.WriteLine("Iam inside add function");
         }
+        static void sub()
+        {
+            Console.WriteLine("Iam inside sub function");
+        }
     }
 }
