@@ -9,5 +9,9 @@ namespace ConsoleApp6
             Console.WriteLine("Hello World!");
            
         }
+        static void add()
+        {
+            Console.WriteLine("Iam inside add function");
+        }
     }
 }
